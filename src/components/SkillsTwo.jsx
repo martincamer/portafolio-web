@@ -27,9 +27,7 @@ const SkillsTwo = () => {
 			{/* Aqui van las Progress Skills */}
 			<div className="progress flex content-center  items-center justify-center mx-auto flex-col h-full my-3">
 				<div className="progress-one py-3 flex items-center gap-3">
-					<p className=" text-xl font-bold border-b-4 border-pink-600">
-						HTML - 95%
-					</p>
+					<p className=" text-xl font-bold border-b-4 border-pink-600">HTML</p>
 					<DiHtml5 className="text-[50px] bg-pink-500 rounded-3xl p-1"></DiHtml5>
 				</div>
 				<div className="w-[70%] mx-3 px-6">
@@ -43,9 +41,7 @@ const SkillsTwo = () => {
 
 			<div className="progress flex content-center  items-center justify-center mx-auto flex-col h-full my-3">
 				<div className="progress-one py-3 flex gap-3 items-center">
-					<p className=" text-xl font-bold border-b-4 border-pink-600 ">
-						CSS - 80%
-					</p>
+					<p className=" text-xl font-bold border-b-4 border-pink-600 ">CSS</p>
 					<DiCss3 className="text-[50px] bg-pink-500 rounded-3xl p-1"></DiCss3>
 				</div>
 				<div className="w-[70%] mx-3 px-6">
@@ -60,14 +56,14 @@ const SkillsTwo = () => {
 			<div className="progress flex content-center  items-center justify-center mx-auto flex-col h-full my-3">
 				<div className="progress-one py-3 flex gap-3 items-center">
 					<p className=" text-xl font-bold border-b-4 border-pink-600">
-						TAILWIND - 90%
+						TAILWIND
 					</p>
 					<SiTailwindcss className="text-[50px] bg-pink-500 rounded-3xl p-1"></SiTailwindcss>
 				</div>
 				<div className="w-[70%] mx-3 px-6">
 					<div className="border-2 border-pink-600 w-full rounded-xl">
 						<div className="border-4 rounded-xl w-[69%] bg-white flex justify-end">
-							<p className="text-pink-600 font-bold text-xl">69%</p>
+							<p className="text-pink-600 font-bold text-xl">80%</p>
 						</div>
 					</div>
 				</div>
@@ -76,7 +72,7 @@ const SkillsTwo = () => {
 			<div className="progress flex content-center  items-center justify-center mx-auto flex-col h-full my-3">
 				<div className="progress-one py-3 flex gap-3 items-center">
 					<p className=" text-xl font-bold border-b-4 border-pink-600">
-						JAVASCRIPT - 78%
+						JAVASCRIPT
 					</p>
 					<DiJavascript className="text-[50px] bg-pink-500 rounded-3xl p-1"></DiJavascript>
 				</div>
@@ -91,9 +87,7 @@ const SkillsTwo = () => {
 
 			<div className="progress flex content-center  items-center justify-center mx-auto flex-col h-full my-3">
 				<div className="progress-one py-3 flex items-center gap-3">
-					<p className=" text-xl font-bold border-b-4 border-pink-600">
-						REACT - 72%
-					</p>
+					<p className=" text-xl font-bold border-b-4 border-pink-600">REACT</p>
 					<DiReact className="text-[50px] bg-pink-500 rounded-3xl p-1"></DiReact>
 				</div>
 				<div className="w-[70%] mx-3 px-6">
@@ -107,9 +101,7 @@ const SkillsTwo = () => {
 
 			<div className="progress flex content-center  items-center justify-center mx-auto flex-col h-full my-3">
 				<div className="progress-one py-3 flex gap-3 items-center">
-					<p className=" text-xl font-bold border-b-4 border-pink-600">
-						VUE - 69%
-					</p>
+					<p className=" text-xl font-bold border-b-4 border-pink-600">VUE</p>
 					<FaVuejs className="text-[50px] bg-pink-500 rounded-3xl p-1"></FaVuejs>
 				</div>
 				<div className="w-[70%] mx-3 px-6">
@@ -124,7 +116,7 @@ const SkillsTwo = () => {
 			<div className="progress flex content-center  items-center justify-center mx-auto flex-col h-full my-3">
 				<div className="progress-one py-3 flex gap-3 items-center">
 					<p className=" text-xl font-bold border-b-4 border-pink-600">
-						ANGULAR -60%
+						ANGULAR
 					</p>
 					<DiAngularSimple className="text-[50px] bg-pink-500 rounded-3xl p-1"></DiAngularSimple>
 				</div>
@@ -140,7 +132,7 @@ const SkillsTwo = () => {
 			<div className="progress flex content-center  items-center justify-center mx-auto flex-col h-full py-3">
 				<div className="progress-one py-3 flex gap-3 items-center">
 					<p className=" text-xl font-bold border-b-4 border-pink-600">
-						NODE JS -70%
+						NODE JS
 					</p>
 					<DiNodejs className="text-[50px] bg-pink-500 rounded-3xl p-1"></DiNodejs>
 				</div>
