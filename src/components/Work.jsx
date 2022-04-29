@@ -1,5 +1,8 @@
 import React from 'react';
-import WorkImg from '../assets/workImg.jpeg';
+import WorkImg from '../assets/workimguno.avif';
+import WorkImgDos from '../assets/workimgdos.avif';
+import WorkImgTres from '../assets/workimgtres.avif';
+import WorkImgCuatro from '../assets/workimgcuatro.avif';
 import realEstate from '../assets/realestate.jpg';
 const Work = () => {
 	return (
@@ -17,7 +20,7 @@ const Work = () => {
 				<div className="grid  sm:grid-cols-2 md:grid-cols-3 gap-4">
 					{/* grid item */}
 					<div
-						style={{ backgroundImage: `url(${WorkImg})` }}
+						style={{ backgroundImage: `url(${WorkImgTres})` }}
 						className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div cursor-pointer"
 					>
 						{/* hover Effects */}
@@ -43,7 +46,7 @@ const Work = () => {
 					{/* item 2 */}
 
 					<div
-						style={{ backgroundImage: `url(${realEstate})` }}
+						style={{ backgroundImage: `url(${WorkImg})` }}
 						className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div cursor-pointer"
 					>
 						{/* hover Effects */}
@@ -70,7 +73,7 @@ const Work = () => {
 					{/* item 2 */}
 
 					<div
-						style={{ backgroundImage: `url(${realEstate})` }}
+						style={{ backgroundImage: `url(${WorkImgDos})` }}
 						className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div cursor-pointer"
 					>
 						{/* hover Effects */}
@@ -97,7 +100,7 @@ const Work = () => {
 					{/* item 2 */}
 
 					<div
-						style={{ backgroundImage: `url(${realEstate})` }}
+						style={{ backgroundImage: `url(${WorkImgCuatro})` }}
 						className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div cursor-pointer"
 					>
 						{/* hover Effects */}
