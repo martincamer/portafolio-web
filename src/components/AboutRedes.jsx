@@ -22,7 +22,7 @@ const AboutRedes = () => {
 				</div>
 				<div className="flex gap-5 px-4 items-center text-center justify-center">
 					<div className="text-5xl flex items-center ">
-						<a href="/">
+						<a href="https://github.com/martincamer">
 							<FaGithub className="hover:scale-110 hover:duration-300 hover:text-gray-500"></FaGithub>
 						</a>
 					</div>
@@ -40,7 +40,7 @@ const AboutRedes = () => {
 					</div>
 
 					<div className="text-5xl flex items-center ">
-						<a href="/">
+						<a href="https://www.linkedin.com/in/martin-camer-115651201/">
 							<FaLinkedin className="hover:scale-110 hover:duration-300 hover:text-blue-500"></FaLinkedin>
 						</a>
 					</div>
